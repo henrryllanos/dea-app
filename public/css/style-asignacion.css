@@ -1,0 +1,99 @@
+main{
+	padding: 35rem 30rem;
+	background: #f9cd16;
+}
+
+h1{
+	font-size: 5rem;
+	font-weight: bold;
+
+	text-align: center;
+	text-transform: uppercase;
+
+	color: #707070;
+}
+
+form{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	width: 100%;
+	max-width: 1000px;
+	margin-top: 5rem;
+	margin-right: auto;
+	margin-left: auto;
+    font-size: 1rem;
+
+}
+
+.field{
+	display: flex;
+	flex-direction: column;
+	width: 14rem;
+    height: 14rem;
+	margin: 5rem 7rem;
+
+}
+
+.field label{
+	font-size: 3rem;
+
+	margin-bottom: 0.2rem;
+margin: auto;
+	color: #696969;
+}
+
+.field input{
+	font-size: 3rem;
+	height: 1rem;
+	padding-left: 10px;
+	border: 2px solid #696969;
+	border-radius: 5px;
+    padding: 35px 5px;
+    margin-right: auto;
+    margin: 5px;
+}
+
+.field select{
+	font-size: 3rem;
+margin: auto;
+	height: 5rem;
+	padding-left: 5rem;
+	border: 2px solid #696969;
+	border-radius: 5px;
+    margin-right: auto;
+}
+
+
+textarea{
+	font-size: 3rem;
+	max-width: 100%;
+	height: 5rem;
+	max-height: 15rem;
+	padding-top: 0.5rem;
+	padding-left: 0.5rem;
+	border: 2px solid #696969;
+	border-radius: 5px;
+}
+
+
+.submit{
+	display: flex;
+	justify-content: center;
+
+	width: 100%;
+	margin-top: 1.75rem;
+}
+
+.submit button{
+	font-size: 2rem;
+margin: auto;
+	padding: 2rem 1.5rem;
+         color: #ffff;
+	cursor: pointer;
+
+	border: 2px solid #696969;
+	border-radius: 4px;
+	background-color: #000000;
+}
+

@@ -1,0 +1,65 @@
+.titulo1{
+
+    font-size: 50px;
+    
+     
+
+}
+.col-xs-12{
+    font-size: 35px;
+
+}
+.form-label{
+
+    font-size: 25px;
+}
+.lead{
+ font-size: 25px;
+ color: darkslategray;
+}
+.container-px-4{
+    display: inline-flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: left;
+    align-items: center;
+    align-content: center;
+    width: 100%;
+
+    margin: 1px 0px;
+    
+}
+.form-control{
+    margin-top: 15px;
+    width: 70%;
+    height: 35px;
+
+}
+.btn_btn-primary{
+
+    font-size: 20px;
+    background-color: blue;
+    font-style: normal;
+    color: aliceblue;
+    width: 40%;
+    height: 45px;
+    border-radius: 50px;
+}
+.anuncio{
+    font-size: 20px;
+    font-weight: 800;
+    font-style: normal;
+    color: deepskyblue;
+}
+.fecha{
+    font-size: 18px;
+    color: black;
+    font-weight: 400;
+
+}
+.anuncio2{
+    font-size: 20px;
+    font-style: normal;
+    color: black;
+    font-weight: 500;
+}

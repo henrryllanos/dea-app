@@ -1,0 +1,84 @@
+.titulo{
+
+    font-size: 20px;
+    font-style: normal;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.mb-3{
+    width: 250px;
+    height: 50px;
+
+}
+.titulo2{
+
+    font-size: 50px;
+    font-display: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: normal;
+}
+.subtitulos{
+    font-size: 30px;
+}
+.subtitulos2{
+    font-size: 20px;
+}
+.subtitulos4{
+    font-size: 20px;
+    top: 150px;
+    left: 150px;
+}
+.controls1{
+
+    width: 30%;
+}
+
+.imagen{
+   position: relative;
+   width: 100px;
+   height: 100px;
+   left: 800px;
+   margin-top: -700px;
+}
+
+.titulo3{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.boton{
+display: block;
+position: relative;
+width: 150px;
+height: 50px;
+font-family: Arial, Helvetica, sans-serif;
+font-weight: 700;
+border-radius: 70px;
+margin: 250px 1100px;
+margin-top: 600px;
+background-color: coral;
+color: aliceblue;
+text-decoration: none;
+
+}
+.boton2{
+    display: block;
+    position: relative;
+    width: 150px;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+ font-weight: 700;
+ border-radius: 70px;
+ margin: 250px 350px;
+ margin-top: -650px;
+ background-color: coral;
+ color: white;
+
+
+
+    }
+.boton2:hover{
+   background-color: transparent;
+   border: 2px solid #7a7a7a;
+   color: rgb(2, 2, 2);
+}
